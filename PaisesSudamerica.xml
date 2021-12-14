@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<pais>
+   <fila id="1">
+      <country>Paraguay</country>
+      <female>3580888</female>
+      <male>3463751</male>
+   </fila>
+   
+    <fila id="2">
+      <country>Suriname</country>
+      <female>292255</female>
+      <male>289180</male>
+   </fila>
+   
+   <fila id="3">
+      <country>Guyana</country>
+      <female>393271</female>
+      <male>389504</male>
+   </fila>
+   
+   <fila id="4">
+      <country>Bolivia</country>
+      <female>5779611</female>
+      <male>5733491</male>
+   </fila>
+   
+     <fila id="5">
+      <country>Ecuador</country>
+      <female>8690487</female>
+      <male>8683170</male>
+   </fila>
+   
+     <fila id="6">
+      <country>Peru</country>
+      <female>16148241</female>
+      <male>16362221</male>
+   </fila>
+   
+     <fila id="7">
+      <country>French Guiana</country>
+      <female>143766</female>
+      <male>147057</male>
+   </fila>
+   
+     <fila id="8">
+      <country>Chile</country>
+      <female>9341774</female>
+      <male>9610261</male>
+   </fila>
+   
+    <fila id="9">
+      <country>Venezuela</country>
+      <female>14045228</female>
+      <male>14470601</male>
+   </fila>
+   
+    <fila id="10">
+      <country>Brazil</country>
+      <female>103733160</female>
+      <male>107316359</male>
+   </fila>
+   
+   <fila id="11">
+      <country>Colombia</country>
+      <female>24713193</female>
+      <male>25626250</male>
+   </fila>
+   
+   <fila id="12">
+      <country>Argentina</country>
+      <female>21841415</female>
+      <male>22939260</male>
+   </fila>
+
+   <fila id="13">
+      <country>Uruguay</country>
+      <female>1671889</female>
+      <male>1789842</male>
+   </fila>   
+</pais>
